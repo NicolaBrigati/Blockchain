@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: blockchain_packages
+Version: 0.1.0
+Summary: Packages used for blockchain
+Author: Nic
+License: MIT
+Dynamic: author
+Dynamic: license
+Dynamic: summary
